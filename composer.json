@@ -4,7 +4,7 @@
   "description": "Contao Base Bundle",
   "license": "LGPL-3.0-or-later",
   "require": {
-    "contao/contao": "^4.9",
+    "contao/managed-edition": "4.9",
     "contao-thememanager/core": "^1.0",
     "contao-thememanager/ctm-tiny-slider": "^1.0",
     "numero2/contao-proper-filenames": "^1.0",
